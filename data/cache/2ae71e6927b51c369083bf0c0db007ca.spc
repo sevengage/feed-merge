@@ -1,0 +1,127 @@
+a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
+	
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:35:"
+		
+    
+    
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:4:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:12:"WDSU  Videos";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:20:"http://www.wdsu.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:10:{i:0;a:6:{s:4:"data";s:80:"
+        
+        
+        
+        
+        
+        
+        
+		
+        
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"Woman escapes kidnapping from Louisiana home with hidden chambers, traps, restraints";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:147:"A woman who was held captive in a Mid-City home escaped. What police found inside ranged from two-way mirrors, hidden chambers to traps and chains.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 09 Nov 2015 17:33:00 CST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:111:"http://www.wdsu.com/woman-escapes-kidnapping-from-louisiana-home-with-hidden-chambers-traps-restraints/36361672";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:8:"36361672";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:4:{s:8:"keywords";a:1:{i:0;a:5:{s:4:"data";s:69:"WDSU,Mid-City crime,kidnapping victim,hidden chambers,two-way mirrors";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"News/US News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:82:"http://cdnbakmi.kaltura.com/p/557781/sp/55778100/raw/entry_id/0_ngkom9gx/version/0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:151:"http://www.wdsu.com/image/view/-/36351396/medRes/2/-/xloij5/-/img-Woman-escapes-kidnapping-from-Mid-City-home-with-hidden-chambers-traps-restraints.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:80:"
+        
+        
+        
+        
+        
+        
+        
+		
+        
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"New Orleans firefighters continue mission to get smoke alarms in every home";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:120:"The New Orleans Fire Department took to one neighborhood Saturday morning to equip households with working smoke alarms.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 07 Nov 2015 19:29:00 CST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://www.wdsu.com/news/new-orleans-firefighters-continue-mission-to-get-smoke-alarms-in-every-home/36325122";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:8:"36325122";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:4:{s:8:"keywords";a:1:{i:0;a:5:{s:4:"data";s:104:"New Orleans Fire Protection, Fire Safety, Smoke Alarms, Alarm Systems, Fire Emergency, Free Smoke Alarms";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"News/US News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:82:"http://cdnbakmi.kaltura.com/p/557781/sp/55778100/raw/entry_id/0_zefbjz7h/version/0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:146:"http://www.wdsu.com/image/view/-/36325124/medRes/2/-/11v3rxy/-/img-New-Orleans-firefighters-continue-mission-to-get-smoke-alarms-in-every-home.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:80:"
+        
+        
+        
+        
+        
+        
+        
+		
+        
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"Indictment accuses River Ridge eye doctor of accessing child porn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:113:"A River Ridge eye doctor faces federal charges after the US Attorney's Office said he accessed child pornography.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 06 Nov 2015 18:19:00 CST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:122:"http://www.wdsu.com/news/local-news/new-orleans/indictment-accuses-river-ridge-eye-doctor-of-accessing-child-porn/36309096";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:8:"36309096";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:4:{s:8:"keywords";a:1:{i:0;a:5:{s:4:"data";s:125:"River Ridge Child Porn, Accessing Child Porn, Court Indicted, Louisiana Eye Doctors, Downloading Child Porn, Baseball Players";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"News/US News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:82:"http://cdnbakmi.kaltura.com/p/557781/sp/55778100/raw/entry_id/0_qrmsuie1/version/0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:135:"http://www.wdsu.com/image/view/-/36309098/medRes/2/-/m727j7/-/img-Indictment-accuses-River-Ridge-eye-doctor-of-accessing-child-porn.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:80:"
+        
+        
+        
+        
+        
+        
+        
+		
+        
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:58:"ATC Shuts Down Four More Bars in Bourbon St. Investigation";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:95:"The Louisiana businesses were ordered to stop selling alcohol and tobacco products immediately.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 05 Nov 2015 22:44:00 CST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:114:"http://www.wdsu.com/news/local-news/new-orleans/atc-shuts-down-four-more-bars-in-bourbon-st-investigation/36292716";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:8:"36292716";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:4:{s:8:"keywords";a:1:{i:0;a:5:{s:4:"data";s:136:"Bourbon Street Strip Clubs, Court Injunction, Undercover Operations, Alcohol Licenses, Business Operations, Drug Use, Prostitution Cases";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"News/US News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:82:"http://cdnbakmi.kaltura.com/p/557781/sp/55778100/raw/entry_id/0_c0d4jvv5/version/0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:128:"http://www.wdsu.com/image/view/-/36292718/medRes/2/-/8fgfsgz/-/img-ATC-Shuts-Down-Four-More-Bars-in-Bourbon-St-Investigation.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:80:"
+        
+        
+        
+        
+        
+        
+        
+		
+        
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:94:"Taxi cab driver says he was improperly ticketed, uses city-mandated GPS in vehicle to prove it";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:166:"One New Orleans taxi cab driver told WDSU Investigates that he can prove he was improperly issued a parking ticket, and he’s using the city’s guidelines to do so.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 05 Nov 2015 18:36:00 CST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:149:"http://www.wdsu.com/news/local-news/new-orleans/taxi-cab-driver-says-he-was-improperly-ticketed-uses-citymandated-gps-in-vehicle-to-prove-it/36289070";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:8:"36289070";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:4:{s:8:"keywords";a:1:{i:0;a:5:{s:4:"data";s:99:"Illegal Parking, City Fines, Louisiana Taxi Cab Drivers, Traffic Tickets, Glenn Trotter, GPS Device";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"News/US News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:82:"http://cdnbakmi.kaltura.com/p/557781/sp/55778100/raw/entry_id/0_b9a66xwj/version/0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:163:"http://www.wdsu.com/image/view/-/36289072/medRes/2/-/7cw8wg/-/img-Taxi-cab-driver-says-he-was-improperly-ticketed-uses-city-mandated-GPS-in-vehicle-to-prove-it.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:80:"
+        
+        
+        
+        
+        
+        
+        
+		
+        
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:56:"Louisiana artist uses gift to create prosthetic eyeballs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:183:"Whether it be an illness or tragedy, losing an eyeball happens more than many might think. Meet a man who is using his gift to help people get back what they thought was lost forever.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 05 Nov 2015 18:32:00 CST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.wdsu.com/louisiana-artist-uses-gift-to-create-prosthetic-eyeballs/36303898";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:8:"36303898";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:4:{s:8:"keywords";a:1:{i:0;a:5:{s:4:"data";s:35:"WDSU,eyeball prosthetic,new orleans";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"News/US News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:82:"http://cdnbakmi.kaltura.com/p/557781/sp/55778100/raw/entry_id/0_8mu5sa4e/version/0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:116:"http://www.wdsu.com/image/view/-/36289002/medRes/2/-/1itk5b/-/img-Artist-uses-gift-to-create-prosthetic-eyeballs.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:80:"
+        
+        
+        
+        
+        
+        
+        
+		
+        
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"Students applaud as John Ehret star athlete gives homecoming king title to classmate";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:138:"Star athlete Kerry Starks won the title of Mr. Patriot, homecoming king, at John Ehret High School Thursday during the school's pep rally.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 04 Nov 2015 18:34:00 CST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:113:"http://www.wdsu.com/students-applaud-as-john-ehret-star-athlete-gives-homecoming-king-title-to-classmate/36274540";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:8:"36274540";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:4:{s:8:"keywords";a:1:{i:0;a:5:{s:4:"data";s:37:"WDSU, John Ehret, Athlete, Homecoming";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"News/US News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:82:"http://cdnbakmi.kaltura.com/p/557781/sp/55778100/raw/entry_id/0_6z6wontl/version/0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:162:"http://www.wdsu.com/image/view/-/36265832/medRes/2/-/14tifdvz/-/img-ICYMI-Students-applaud-as-John-Ehret-star-athlete-gives-homecoming-king-title-to-classmate.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:80:"
+        
+        
+        
+        
+        
+        
+        
+		
+        
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:54:"Judge rejects strip clubs&#039; request for injunction";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:148:"Three of the clubs that lost their alcohol licenses in a Louisiana undercover operation were in court Wednesday, fighting to stay open for business.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 04 Nov 2015 18:31:00 CST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://www.wdsu.com/news/local-news/new-orleans/judge-rejects-strip-clubs-request-for-injunction/36265754";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:8:"36265754";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:4:{s:8:"keywords";a:1:{i:0;a:5:{s:4:"data";s:121:"Bourbon Street Strip Clubs, Court Injunction, Undercover Operations, Alcohol Licenses, Business Operations, Alcohol Sales";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"News/US News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:82:"http://cdnbakmi.kaltura.com/p/557781/sp/55778100/raw/entry_id/0_k0qcaugx/version/0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:119:"http://www.wdsu.com/image/view/-/36265756/medRes/2/-/12twrjy/-/img-Judge-rejects-strip-clubs-request-for-injunction.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:80:"
+        
+        
+        
+        
+        
+        
+        
+		
+        
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"Lockdown lifted after threat turns out to be hoax at Madisonville Junior High School";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:122:"A lockdown was lifted at Madisonville Junior High School after a threat turned out to be a hoax Wednesday, officials said.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 04 Nov 2015 18:27:00 CST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:141:"http://www.wdsu.com/news/local-news/new-orleans/lockdown-lifted-after-threat-turns-out-to-be-hoax-at-madisonville-junior-high-school/36265704";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:8:"36265704";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:4:{s:8:"keywords";a:1:{i:0;a:5:{s:4:"data";s:117:"Madisonville Junior High School, School Lockdown, School Threats, Hoax Threats, Campus Security, Police Investigation";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"News/US News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:82:"http://cdnbakmi.kaltura.com/p/557781/sp/55778100/raw/entry_id/0_pjnj8h2j/version/0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:156:"http://www.wdsu.com/image/view/-/36265706/medRes/2/-/11e2obyz/-/img-Lockdown-lifted-after-threat-turns-out-to-be-hoax-at-Madisonville-Junior-High-School.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:80:"
+        
+        
+        
+        
+        
+        
+        
+		
+        
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"Two men sought in murder of man found shot, killed in Chalmette, SBPSO says";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:124:"Two people are being sought after a man was shot and killed Tuesday night in Chalmette, St. Bernard Parish authorities said.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 28 Oct 2015 18:38:00 CDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:130:"http://www.wdsu.com/news/local-news/new-orleans/two-men-sought-in-murder-of-man-found-shot-killed-in-chalmette-sbpso-says/36105410";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:8:"36105410";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:4:{s:8:"keywords";a:1:{i:0;a:5:{s:4:"data";s:106:"Chalmette Shooting, Murder Investigation, Gun Violence, Police Investigation, Public Safety, Gunshot Wound";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:12:"News/US News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:82:"http://cdnbakmi.kaltura.com/p/557781/sp/55778100/raw/entry_id/0_b10nsv5p/version/0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:144:"http://www.wdsu.com/image/view/-/36105412/medRes/2/-/xy0bm4z/-/img-Two-men-sought-in-murder-of-man-found-shot-killed-in-Chalmette-SBPSO-says.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:16:{s:6:"server";s:6:"Apache";s:14:"x-ib-site-name";s:6:"htv-no";s:17:"x-ib-content-type";s:18:"dynamic_collection";s:16:"x-ib-context-urn";s:27:"urn:ibsys:coremedia:9854144";s:16:"x-ib-content-urn";s:28:"urn:ibsys:coremedia:16952330";s:14:"x-ib-timestamp";s:24:"2015-11-11T22:30:36.276Z";s:12:"content-type";s:22:"text/xml;charset=UTF-8";s:16:"content-language";s:5:"en-US";s:13:"x-server-name";s:28:"prodcaefrontend-htv02-sea01b";s:16:"content-encoding";s:4:"gzip";s:14:"content-length";s:4:"2797";s:4:"date";s:29:"Wed, 11 Nov 2015 22:30:38 GMT";s:10:"connection";s:10:"keep-alive";s:4:"vary";s:15:"Accept-Encoding";s:10:"set-cookie";s:22:"geo_code=US-VA; path=/";s:10:"x-geo-code";s:5:"US-VA";}s:5:"build";s:14:"20121030175911";}

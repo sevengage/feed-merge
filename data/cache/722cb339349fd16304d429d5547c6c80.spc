@@ -1,0 +1,125 @@
+a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
+	
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:50:"
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:2:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:68:"http://mcp-download.s3.amazonaws.com/anv-playlists/feeds/xml/210.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:15:{i:0;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/A21/131/A211313BAB0B4C7DA705AC79018B5869.mp4";s:8:"duration";s:3:"114";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/60C/F91/60CF913CC5734C6FAD605FCC76EB62F3";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:90:"Meteorologist Kevin Williams has your Wednesday evening weather forecast for 11/11/2015...";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2872291";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:24:"The Meredith Vieira Show";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 11 Nov 2015 16:09:19 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/AD4/31B/AD431B5527A54BA487B39CAAD401DFC1.mp4";s:8:"duration";s:3:"240";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/1DA/827/1DA827B0F3B64BC38A6980BCB893D1C1";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:55:"New York State Exposed: Should NYC be a separate state?";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2872290";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:22:"New York State Exposed";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 11 Nov 2015 16:04:12 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/064/54F/06454FF73BC44CB0911F6848C2AE72A6.mp4";s:8:"duration";s:3:"151";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/29C/3B1/29C3B173792A4BDCBE058A3D62089FDE";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:47:"Motown the Musical is taking Rochester by storm";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2872242";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:18:"Motown the Musical";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 11 Nov 2015 12:50:04 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/A63/0CF/A630CFC884C745C2B3F91C33DEB186C9.mp4";s:8:"duration";s:2:"86";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/72A/B15/72AB15B7F4A840898E6EC2A892BDE501";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:83:"A Veterans Day run was held Wednesday morning to honor those who served our country";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2872208";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:16:"Veterans Day Run";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 11 Nov 2015 12:11:42 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/F46/95E/F4695E619D384DBA99DD4B444A779C20.mp4";s:8:"duration";s:2:"46";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/D68/293/D6829327DCCD48A88D38BB9C55520808";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:70:"Local veterans joined together to have breakfast on Wednesday morning.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2872203";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:22:"Veterans Day Breakfast";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 11 Nov 2015 12:09:19 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/CC7/66D/CC766DD640604813B5520C36E4AFE3BC.mp4";s:8:"duration";s:3:"142";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/335/F47/335F47B5AEF6495595A2AEA78939B540";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:112:"Students from the St. Michael’s Woodshop have created ornaments with proceeds going to help children in Haiti.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2872132";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:30:"Gifts of Love Ornament Program";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 11 Nov 2015 08:42:45 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/0C5/7C9/0C57C9144F144FA8B5B2954EAA45A6D2.mp4";s:8:"duration";s:2:"24";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/B9A/25D/B9A25D047DD44D71B8081BA4DC6C7738";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:39:"Good Question helps raise a flag on 490";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2872083";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:24:"American flag now on 490";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 11 Nov 2015 06:45:16 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/8A9/580/8A958024D6CD450CBFCA4B886043F8E0.mp4";s:8:"duration";s:2:"93";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/B82/925/B829259271E847A2A1B0010637CB025E";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:83:"A Veterans Day run was held Wednesday morning to honor those who served our country";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2872080";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:16:"Veterans Day Run";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 11 Nov 2015 06:36:52 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/CBB/2BF/CBB2BF4BB9EC48F5973733D5B1112D90.mp4";s:8:"duration";s:2:"30";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1920";s:6:"height";s:4:"1080";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/anv-iupl/3F7/260/3F7260CFA19645FA8544CD93D51474D4";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:75:"We want to take a moment to thank all veterans who have served our country.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2872074";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:22:"Veterans Day Thank You";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 11 Nov 2015 06:24:00 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/080/142/080142E399244751994924B3492CCA9E.mp4";s:8:"duration";s:3:"112";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/B13/DE7/B13DE756E95E4384ADB367B1222B0713";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:23:"Forecast for 11/11/2015";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2872073";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:20:"Wednesday's Forecast";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 11 Nov 2015 06:18:25 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/CEE/0B9/CEE0B9FD70CB4438B2AD1C3E1386348B.mp4";s:8:"duration";s:2:"73";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/616/0D2/6160D2C899A745238A07D7A26EAA2482";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:46:"Champion Academy rewards students' progress...";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2872011";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:25:"Champion Academy check-in";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 10 Nov 2015 23:18:45 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/9E8/3D2/9E83D206892448909E8B00B2C4947CE6.mp4";s:8:"duration";s:3:"161";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/D67/563/D675632EE37046F68BFFFB3A3393F1B1";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:61:"Workers raise money for victim of Empire Blvd. hit-and-run...";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2871989";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:24:"Empire Blvd. hit-and-run";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 10 Nov 2015 23:11:12 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/9B0/76D/9B076D6951CA494385438D56A38891FA.mp4";s:8:"duration";s:3:"131";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/E01/B99/E01B992EF07647EF92F6FC1F53BD4FC7";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:64:"Prosecutors file motion to unseal records in Charles Tan case...";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2871985";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:23:"Prosecutors file motion";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 10 Nov 2015 23:09:29 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/88B/297/88B297B582E840158280F3BEEB529A86.mp4";s:8:"duration";s:3:"102";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/516/5D6/5165D6544AEF45F6AB4B07031AFA7392";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:50:"Scholar Athlete of the Week 11/10: Shelly Mason...";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2871904";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:27:"Scholar Athlete of the Week";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 10 Nov 2015 19:55:07 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:39:"
+			
+			
+	 	 	 
+	 	 	 
+	 	 	 
+	 	 	 
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:6:{s:3:"url";s:86:"http://mcp-media.s3.amazonaws.com/anv-pvw/E0F/56E/E0F56EEFFC4844ADB30DE8B063C22559.mp4";s:8:"duration";s:3:"115";s:4:"type";s:9:"video/mp4";s:6:"medium";s:5:"video";s:5:"width";s:4:"1280";s:6:"height";s:3:"720";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:83:"http://mcp-media.s3.amazonaws.com/captures/6A7/00F/6A700F139D4E4F46ACD1E4D62AB0DCE3";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:86:"Meteorologist Kevin Williams has your Tuesday night weather forecast for 11/10/2015...";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:3:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:11:"ANV_2871898";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"Title";a:1:{i:0;a:5:{s:4:"data";s:21:"Tuesday night weather";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"PubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 10 Nov 2015 19:39:53 -0500";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:10:"x-amz-id-2";s:64:"qObO6kgG3DuOHPFdXBg5mnB4GRaOKOHekgCCSsftARedlUsAXjUYQTkzj7LPRTSU";s:16:"x-amz-request-id";s:16:"40AD0A142E189488";s:4:"date";s:29:"Wed, 11 Nov 2015 21:56:53 GMT";s:16:"x-amz-version-id";s:32:"OqHQqcUlkVnMJt6B8ol8xyfKhlZwoSp6";s:13:"last-modified";s:29:"Wed, 11 Nov 2015 21:13:30 GMT";s:4:"etag";s:34:""4c0bf5231da7518227c2e4048b61a405"";s:13:"accept-ranges";s:5:"bytes";s:12:"content-type";s:15:"application/xml";s:14:"content-length";s:4:"8760";s:6:"server";s:8:"AmazonS3";}s:5:"build";s:14:"20121030175911";}

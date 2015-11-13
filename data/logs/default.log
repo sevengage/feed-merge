@@ -1,0 +1,131 @@
+11-11-15 15:04:15 Error curl_setopt(): CURLOPT_FOLLOWLOCATION cannot be activated when an open_basedir is set
+
+11-11-15 15:05:42 Error curl_setopt(): CURLOPT_FOLLOWLOCATION cannot be activated when an open_basedir is set
+
+11-11-15 15:18:12 Error failed to retrieve image http://abc30.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc30.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="Fresno&#38;#39;s source for breaking news and live streaming video online. Covering North Valley, South Valley, Sierra and th
+11-11-15 15:18:13 Error failed to retrieve image http://abc7news.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc7news.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="The Bay Area&#38;#39;s source for breaking news and live streaming video online. Covering San Francisco, Oakland and San J
+11-11-15 15:18:15 Error failed to retrieve image http://abc13.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc13.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="ABC13 is your source for breaking news from Houston and the  surrounding neighborhoods. Watch live streaming video and stay u
+11-11-15 15:18:16 Error failed to retrieve image http://abc7ny.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc7ny.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="New York&#38;#39;s source for breaking news and live streaming video online. Covering New York City, New Jersey, Long Island
+11-11-15 15:18:17 Error failed to retrieve image http://abc7chicago.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc7chicago.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="Chicago&#38;#39;s source for breaking news and live streaming video online.  Covering News, Weather, Traffic and Sports
+11-11-15 15:18:18 Error failed to retrieve image http://6abc.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | 6abc.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="Action News and 6abc.com are Philadelphia&#38;#39;s source for breaking news and live streaming video online, covering Philade
+11-11-15 15:18:19 Error failed to retrieve image http://abc11.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc11.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="Raleigh&#38;#39;s source for breaking news and live streaming video online.  Covering Raleigh, Durham, Fayetteville and the g
+11-11-15 15:18:26 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>3860BCDC8875E219</RequestId><HostId>D5LBsCPEkR9QBlgXYJs+OliNfjTrtSLQp9VmmXsJ+mQ3Uru1YYIcF3noaMKhHehC</HostId></Error>
+11-11-15 15:18:26 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>8AB96A2782D15420</RequestId><HostId>ci/vzjHfP/FkiECChPlMKniDxv6NFNi0tm4WYZlyWn6Xx0Nj/ZdHX8TajvHnFfWT</HostId></Error>
+11-11-15 15:18:26 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>458ED90E410DC1AE</RequestId><HostId>I3jd7+nMJZO8pe9sqpQYIFUW3mQoxSHr338TP6BEkJ+Bycaw2uu5XIAyubn0GulT</HostId></Error>
+11-11-15 15:18:27 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>8B835747FFA667C3</RequestId><HostId>20OV6odo4uN5wvhA2p9I6urESovh0Sg31sr0Th9HjXj+mM5JJWgoHeI1Pxy4CiRs</HostId></Error>
+11-11-15 15:18:27 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>BB31CBFFE24179D9</RequestId><HostId>r44l28eEj6aLHIvEL4ASqrVJjDiIGuFVaEGc2ME3hcsz2yryzuOMebJQXoWGLZ0O</HostId></Error>
+11-11-15 15:18:27 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>22C0D38780CF5B47</RequestId><HostId>1F5zTV0ckifXE0bsxi2vlOxwH1ME6R3O1NkC2XsiVn0x3ifpi1rq2GcHboQdqQQR</HostId></Error>
+11-11-15 21:56:37 Error failed to retrieve image http://abc7.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc7.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="Los Angeles&#38;#39; source for breaking news and live streaming video online. Covering Los Angeles, Orange County and all of 
+11-11-15 21:56:39 Error failed to retrieve image http://abc30.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc30.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="Fresno&#38;#39;s source for breaking news and live streaming video online. Covering North Valley, South Valley, Sierra and th
+11-11-15 21:56:40 Error failed to retrieve image http://abc7news.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc7news.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="The Bay Area&#38;#39;s source for breaking news and live streaming video online. Covering San Francisco, Oakland and San J
+11-11-15 21:56:41 Error failed to retrieve image http://abc13.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc13.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="ABC13 is your source for breaking news from Houston and the  surrounding neighborhoods. Watch live streaming video and stay u
+11-11-15 21:56:42 Error failed to retrieve image http://abc7ny.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc7ny.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="New York&#38;#39;s source for breaking news and live streaming video online. Covering New York City, New Jersey, Long Island
+11-11-15 21:56:43 Error failed to retrieve image http://abc7chicago.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc7chicago.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="Chicago&#38;#39;s source for breaking news and live streaming video online.  Covering News, Weather, Traffic and Sports
+11-11-15 21:56:44 Error failed to retrieve image http://6abc.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | 6abc.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="Action News and 6abc.com are Philadelphia&#38;#39;s source for breaking news and live streaming video online, covering Philade
+11-11-15 21:56:45 Error failed to retrieve image http://abc11.com/favicon.ico,<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Page Not Found | abc11.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="Raleigh&#38;#39;s source for breaking news and live streaming video online.  Covering Raleigh, Durham, Fayetteville and the g
+11-11-15 21:56:51 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>745528AF0292160C</RequestId><HostId>DdfKx72XyHXsCQ/Pw52oSerpeWPXuY8ZGFkFgX2hrOP64tb440yqVfG+0Ic2qCJ8</HostId></Error>
+11-11-15 21:56:52 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>C331ACC227906E2B</RequestId><HostId>KDhB+SWkO66BSZ2duqQuBt/n0XahNhdXC4nbglOchPAnW70N74WuwZn2XeP/041q</HostId></Error>
+11-11-15 21:56:52 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>6CC1064C39B0EB03</RequestId><HostId>PszTkgRDFXlhtsSS48moTu3edTBaOmZJXDJ14uCSAYKTjdvf0bxALqbrWI72JVU/</HostId></Error>
+11-11-15 21:56:52 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>47DBCFC8CF62C5AE</RequestId><HostId>GHz5BPRls8UzI7xXfltgQ848ik2SuPlbt0eRA+Nt4lAs/rg2RbB10LjeQ5rsmhMb</HostId></Error>
+11-11-15 21:56:52 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>9D7918AA8D117259</RequestId><HostId>knos/KtcYBm3iyJAS0w/x5KfJkY75ilx/N+lj34l/mDDIroMs9SwKzoXQ0log5h5</HostId></Error>
