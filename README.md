@@ -1,3 +1,7 @@
+#Feed Merge 1.0
+A PHP application to merge and normalize RSS feeds into one feed for Kaltura media players.
+
+
 selfoss
 =======
 
@@ -59,28 +63,3 @@ DEVELOPMENT
 
 Selfoss uses [git submodules](http://www.git-scm.com/book/en/Git-Tools-Submodules) for some external libaries. When you clone the repository you have to issue a `git submodule init` as well as a `git submodule update` to retrieve the external sources.
 
-CREDITS
--------
-
-Very special thanks to all contributors of pull requests here on github. Your improvements are awesome!!!
-
-Special thanks to the great programmers of this libraries which will be used in selfoss:
-
-* FatFree PHP Framework: http://fatfree.sourceforge.net/
-* SimplePie: http://simplepie.org/
-* jQuery: http://jquery.com/
-* jQuery UI: http://jqueryui.com/
-* WideImage: http://wideimage.sourceforge.net/
-* htmLawed: http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/
-* PHP Universal Feed Generator: https://github.com/ajaxray/FeedWriter
-* twitteroauth: https://github.com/abraham/twitteroauth
-* floIcon: http://www.phpclasses.org/package/3906-PHP-Read-and-write-images-from-ICO-files.html
-* jQuery hotkeys: https://github.com/tzuryby/jquery.hotkeys
-* jsmin: https://github.com/rgrove/jsmin-php
-* cssmin: http://code.google.com/p/cssmin/
-* Spectrum Colorpicker: https://github.com/bgrins/spectrum
-* jQuery custom content scroller: http://manos.malihu.gr/jquery-custom-content-scroller/
-* twitter oauth library: https://github.com/abraham/twitteroauth
-* FullTextRSS: http://help.fivefilters.org/customer/portal/articles/223153-site-patterns
-
-Icon Source: http://blog.artcore-illustrations.de/aicons/
