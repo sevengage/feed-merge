@@ -129,3 +129,74 @@
 <Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>47DBCFC8CF62C5AE</RequestId><HostId>GHz5BPRls8UzI7xXfltgQ848ik2SuPlbt0eRA+Nt4lAs/rg2RbB10LjeQ5rsmhMb</HostId></Error>
 11-11-15 21:56:52 Error failed to retrieve image http://mcp-download.s3.amazonaws.com/favicon.ico,<?xml version="1.0" encoding="UTF-8"?>
 <Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>9D7918AA8D117259</RequestId><HostId>knos/KtcYBm3iyJAS0w/x5KfJkY75ilx/N+lj34l/mDDIroMs9SwKzoXQ0log5h5</HostId></Error>
+11-20-15 14:10:43 Error could not find driver
+
+11-20-15 14:12:35 Error could not find driver
+
+11-20-15 14:12:36 Error could not find driver
+
+11-20-15 14:12:36 Error could not find driver
+
+11-20-15 14:17:36 Error file_put_contents(/var/www/feed-merge/public/all-v2.14.js): failed to open stream: Permission denied
+/var/www/feed-merge/helpers/View.php:156
+/var/www/feed-merge/helpers/View.php:25
+/var/www/feed-merge/controllers/BaseController.php:29
+/var/www/feed-merge/index.php:97
+
+11-20-15 14:18:07 Error could not find driver
+/var/www/feed-merge/libs/f3/db/sql.php:399
+/var/www/feed-merge/daos/sqlite/Database.php:41
+/var/www/feed-merge/daos/Database.php:31
+/var/www/feed-merge/daos/Tags.php:31
+/var/www/feed-merge/controllers/Index.php:39
+/var/www/feed-merge/index.php:97
+
+11-20-15 14:21:24 Error could not find driver
+/var/www/feed-merge/libs/f3/db/sql.php:399
+/var/www/feed-merge/daos/sqlite/Database.php:41
+/var/www/feed-merge/daos/Database.php:31
+/var/www/feed-merge/daos/Tags.php:31
+/var/www/feed-merge/controllers/Index.php:39
+/var/www/feed-merge/index.php:97
+
+11-20-15 14:26:00 Error PDOStatement: attempt to write a readonly database
+/var/www/feed-merge/daos/mysql/Sources.php:73
+/var/www/feed-merge/controllers/Sources.php:247
+/var/www/feed-merge/index.php:97
+
+11-20-15 14:31:12 Error PDOStatement: unable to open database file
+/var/www/feed-merge/daos/mysql/Sources.php:118
+/var/www/feed-merge/helpers/ContentLoader.php:391
+/var/www/feed-merge/helpers/ContentLoader.php:64
+/var/www/feed-merge/helpers/ContentLoader.php:46
+/var/www/feed-merge/controllers/Index.php:192
+/var/www/feed-merge/index.php:97
+
+11-20-15 14:31:42 Error PDOStatement: unable to open database file
+/var/www/feed-merge/daos/mysql/Sources.php:118
+/var/www/feed-merge/helpers/ContentLoader.php:391
+/var/www/feed-merge/helpers/ContentLoader.php:64
+/var/www/feed-merge/helpers/ContentLoader.php:46
+/var/www/feed-merge/controllers/Index.php:192
+/var/www/feed-merge/index.php:97
+
+11-20-15 14:33:16 Error PDOStatement: unable to open database file
+/var/www/feed-merge/daos/mysql/Sources.php:73
+/var/www/feed-merge/controllers/Sources.php:247
+/var/www/feed-merge/index.php:97
+
+11-20-15 14:33:47 Error PDOStatement: unable to open database file
+/var/www/feed-merge/daos/mysql/Sources.php:73
+/var/www/feed-merge/controllers/Sources.php:247
+/var/www/feed-merge/index.php:97
+
+11-20-15 14:37:55 Error PDOStatement: unable to open database file
+/var/www/feed-merge/daos/mysql/Sources.php:73
+/var/www/feed-merge/controllers/Sources.php:247
+/var/www/feed-merge/index.php:97
+
+11-20-15 14:38:54 Error PDOStatement: unable to open database file
+/var/www/feed-merge/daos/mysql/Sources.php:73
+/var/www/feed-merge/controllers/Sources.php:247
+/var/www/feed-merge/index.php:97
+

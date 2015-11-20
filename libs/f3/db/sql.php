@@ -396,6 +396,7 @@ class SQL extends \PDO {
 		if (isset($parts[0]) && strstr($parts[0],':',TRUE)=='mysql')
 			$options+=array(\PDO::MYSQL_ATTR_INIT_COMMAND=>'SET NAMES '.
 				strtolower(str_replace('-','',$fw->get('ENCODING'))).';');
+
 		parent::__construct($dsn,$user,$pw,$options);
 		$this->engine=parent::getattribute(parent::ATTR_DRIVER_NAME);
 	}

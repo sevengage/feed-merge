@@ -87,6 +87,12 @@ $f3->route('DELETE /source/@id',        'controllers\Sources->remove');       //
 $f3->route('POST   /source/delete/@id', 'controllers\Sources->remove');       // json
 $f3->route('GET    /sources/spouts',    'controllers\Sources->spouts');       // json
 
+$f3->route('GET    /categories',    'controllers\Categories->all');       // json
+$f3->route('POST   /categories',    'controllers\Categories->create');       // json
+$f3->route('GET    /categories/@item',    'controllers\Categories->get');       // json
+$f3->route('POST   /categories/@item',    'controllers\Categories->update');       // json
+$f3->route('DELETE /source/@id',        'controllers\Categories->remove');       // json
+
 $f3->route('POST /tags/color',          'controllers\Tags->color');           // json
 
 $f3->route('GET  /opml',                'controllers\Opml->show');            // html
