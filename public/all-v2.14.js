@@ -10778,6 +10778,31 @@ var selfoss = {
             }
         });
     },
+
+    /**
+     * refresh current tags.
+     *
+     * @return void
+     */
+    reloadCategories: function() {
+        $('#nav-cat').addClass('loading');
+
+        $.ajax({
+            url: $('base').attr('href')+'catlist',
+            type: 'GET',
+            success: function(data) {
+                $('#nav-cat').append(data);
+                selfoss.events.navigation();
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+                selfoss.showError('Load cat error: '+
+                    textStatus+' '+errorThrown);
+            },
+            complete: function(jqXHR, textStatus) {
+                $('#nav-cat').removeClass('loading');
+            }
+        });
+    },
     
     
     /**
@@ -11198,6 +11223,12 @@ selfoss.events.navigation = function() {
     $('#nav-tags-title').unbind('click').click(function () {
         $('#nav-tags').slideToggle("slow");
         $('#nav-tags-title').toggleClass("nav-tags-collapsed nav-tags-expanded");
+    });
+
+    // hide/show tags
+    $('#nav-cat-title').unbind('click').click(function () {
+        $('#nav-cat').slideToggle("slow");
+        $('#nav-cat-title').toggleClass("nav-cat-collapsed nav-cat-expanded");
     });
     
     // source

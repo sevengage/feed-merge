@@ -2240,6 +2240,16 @@ input {
     #nav-tags-wrapper  {
         overflow:hidden;
     }
+
+        .nav-cat-collapsed {
+            padding-left: 20px;
+            background: url(images/nav-collapsed.png) center left no-repeat;
+        }
+
+        .nav-cat-expanded {
+            padding-left: 20px;
+            background: url(images/nav-expanded.png) center left no-repeat;
+        }
     
         .nav-tags-collapsed {
             padding-left: 20px;
@@ -2340,6 +2350,7 @@ input {
     
     #nav-refresh,
     #nav-settings,
+    #nav-categories,
     #nav-logout,
     #nav-login {
         position:absolute;
@@ -2358,15 +2369,20 @@ input {
     #nav-refresh {
         background:url(images/nav-refresh.png) no-repeat center center #272325;
     }
+
+    #nav-categories {
+        background:url(images/nav-sources.png) no-repeat center center #272325;
+        left:70px;
+    }
     
     #nav-settings {
         background:url(images/nav-sources.png) no-repeat center center #272325;
-        left:70px;
+        left:120px;
     }
         
     #nav-logout {
         background:url(images/nav-logout.png) no-repeat center center #272325;
-        left:120px;
+        left:170px;
     }    
     
     #nav-login {
@@ -2402,7 +2418,7 @@ input {
 #search {
     z-index:9;
     position:absolute;
-    left:-118px;
+    left:-60px;
     top:25px;
     width:330px;
     padding:5px;
@@ -2481,7 +2497,7 @@ input {
 /* content */
 
 #content {
-    margin-left:220px;
+    margin-left:290px;
     padding-top:20px;
     padding-bottom:20px;
 }
@@ -3001,7 +3017,7 @@ body.publicmode.notloggedin .entry-unread {
 
     #nav {
         position:fixed;
-        width:180px;
+        width:240px;
         overflow: hidden;
         float:left;
         min-height: 100%;
@@ -3055,6 +3071,7 @@ body.publicmode.notloggedin .entry-unread {
 
     #nav-refresh,
     #nav-settings,
+    #nav-categories,
     #nav-logout,
     #nav-login {
         width:40px;
@@ -3249,6 +3266,7 @@ body.publicmode.notloggedin .entry-unread {
         
         #nav-refresh,
         #nav-settings,
+        #nav-categories,
         #nav-logout,
         #nav-login {
             position:relative;
@@ -3259,13 +3277,17 @@ body.publicmode.notloggedin .entry-unread {
             float:left;
         }
 
-        #nav-settings {
+        #nav-categories {
             left:50px;
+        }
+
+        #nav-settings {
+            left:100px;
         }
         
         #nav-login,
         #nav-logout {
-            left:100px;
+            left:150px;
         }
         
         #nav-copyright {
@@ -3422,7 +3444,7 @@ body.publicmode.notloggedin .entry-unread {
 @media screen and (min-width: 641px) and (max-width:1024px) {
    
     #nav {
-        width:160px;
+        width:200px;
     }
    
     #content {

@@ -47,6 +47,17 @@ class Database {
             foreach($result as $table)
                 foreach($table as $key=>$value)
                     $tables[] = $value;
+
+            if(!in_array('categories', $tables)) {
+                \F3::get('db')->exec('
+                    CREATE TABLE categories (
+                        id          INTEGER PRIMARY KEY AUTOINCREMENT,
+                        title       VARCHAR(255) NOT NULL,
+                        keywords    TEXT NOT NULL,
+                        total       INT NOT NULL
+                    );
+                ');
+            }
             
             if(!in_array('items', $tables)) {
                 \F3::get('db')->exec('

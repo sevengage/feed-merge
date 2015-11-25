@@ -49,10 +49,19 @@ class Index extends BaseController {
         $this->view->statsAll = $stats['total'];
         $this->view->statsUnread = $stats['unread'];
         $this->view->statsStarred = $stats['starred'];
-        
-        // prepare tags display list
+
+        // prepare categories display list
         $tagsController = new \controllers\Tags();
         $this->view->tags = $tagsController->renderTags($tags);
+
+        // load tags
+        $tagsDao = new \daos\Categories();
+        $categories = $tagsDao->getAll();
+
+        // prepare categories display list
+        $tagsController = new \controllers\Categories();
+        $this->view->categories = $tagsController->renderCategories($tags);
+
         
         if(isset($options['sourcesNav']) && $options['sourcesNav'] == 'true' ) {
             // prepare sources display list
@@ -71,7 +80,8 @@ class Index extends BaseController {
                 "unread"   => $this->view->statsUnread,
                 "starred"  => $this->view->statsStarred,
                 "tags"     => $this->view->tags,
-                "sources"  => $this->view->sources
+                "sources"  => $this->view->sources,
+                "categories"  => $this->view->categories,
             ));
         }
         

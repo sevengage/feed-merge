@@ -200,3 +200,5 @@
 /var/www/feed-merge/controllers/Sources.php:247
 /var/www/feed-merge/index.php:97
 
+11-23-15 13:10:38 Error Fatal error: Class 'daos\sqlite\Categories' not found
+

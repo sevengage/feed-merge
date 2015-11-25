@@ -74,6 +74,12 @@ selfoss.events.navigation = function() {
         $('#nav-tags').slideToggle("slow");
         $('#nav-tags-title').toggleClass("nav-tags-collapsed nav-tags-expanded");
     });
+
+    // hide/show tags
+    $('#nav-cat-title').unbind('click').click(function () {
+        $('#nav-cat').slideToggle("slow");
+        $('#nav-cat-title').toggleClass("nav-cat-collapsed nav-cat-expanded");
+    });
     
     // source
     $('#nav-sources > li').unbind('click').click(function () {

@@ -97,12 +97,16 @@
         <hr>
 
         <div id="nav-tags-wrapper">
-        <h2 id="nav-tags-title" class="nav-tags-expanded"><?PHP echo \F3::get('lang_tags') ?></h2>
+        <h2 id="nav-tags-title" class="nav-tags-expanded">Tags</h2>
         <ul id="nav-tags">
             <li class="active nav-tags-all"><?PHP echo \F3::get('lang_alltags')?></li>
             <?PHP echo $this->tags; ?>
         </ul>
-        <h2 id="nav-sources-title" class="nav-sources-collapsed"><?PHP echo \F3::get('lang_sources') ?></h2>
+        <h2 id="nav-cat-title" class="nav-cat-collapsed">Categories</h2>
+        <ul id="nav-cat">
+            <?PHP echo $this->categories; ?>
+        </ul>
+        <h2 id="nav-sources-title" class="nav-sources-collapsed">Sources</h2>
         <ul id="nav-sources">
             <?PHP echo $this->sources; ?>
         </ul>
@@ -123,6 +127,7 @@
         
         <?PHP if($this->loggedin===true && \F3::get('auth')->enabled()===true) : ?>
         <div id="nav-refresh" title="<?PHP echo trim(\F3::get('lang_refreshbutton')); ?>"></div>
+        <div id="nav-categories" title="Categories"></div>
         <div id="nav-settings" title="<?PHP echo trim(\F3::get('lang_settingsbutton')); ?>"></div>
         <div id="nav-logout" title="<?PHP echo trim(\F3::get('lang_logoutbutton')); ?>"></div>
         <?PHP endif; ?>

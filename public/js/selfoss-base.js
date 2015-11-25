@@ -304,6 +304,31 @@ var selfoss = {
             }
         });
     },
+
+    /**
+     * refresh current tags.
+     *
+     * @return void
+     */
+    reloadCategories: function() {
+        $('#nav-cat').addClass('loading');
+
+        $.ajax({
+            url: $('base').attr('href')+'catlist',
+            type: 'GET',
+            success: function(data) {
+                $('#nav-cat').append(data);
+                selfoss.events.navigation();
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+                selfoss.showError('Load cat error: '+
+                    textStatus+' '+errorThrown);
+            },
+            complete: function(jqXHR, textStatus) {
+                $('#nav-cat').removeClass('loading');
+            }
+        });
+    },
     
     
     /**
